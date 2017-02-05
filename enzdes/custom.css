@@ -1,0 +1,26 @@
+div#notebook{
+margin-top:50px;
+margin-bottom:100px;
+}
+div.cell{
+max-width:100em;
+margin-left:auto;
+margin-right:auto;
+}
+div.input_prompt, div.output_prompt{
+margin-left:-11ex;
+}
+div.input, div.output_wrapper{
+margin-top:1em;
+margin-bottom:1em;
+}
+div.text_cell{
+margin-top:-2px;
+margin-bottom:-2px;
+padding-top:2px;
+padding-bottom:2px;
+border-left:2px solid #505050;
+border-collapse:collapse;
+border-top:none;
+border-bottom:none;
+}
